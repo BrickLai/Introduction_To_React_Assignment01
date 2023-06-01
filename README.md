@@ -31,5 +31,5 @@
 ```
 
 <h3>Launch</h3>
-<a href="https://bricklai.github.io/social-media-with-APIs/">Click here</a> to visit.
+<a href="https://bricklai.github.io/Introduction-To-React-Assignment1/">Click here</a> to visit.
 
